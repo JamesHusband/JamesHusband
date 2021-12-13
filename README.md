@@ -1,6 +1,4 @@
-## Hey 👋, I'm [James Husband!](https://github.com/JamesHusband/)
-
-### Glad to see you here!
+## Hey 👋, I'm James Husband, welcome to my GitHub!
 
 
 ### Talking about Personal Stuff:
