@@ -1,7 +1,7 @@
 
-<img align="center" src="https://i.ibb.co/WBcZwBX/header.jpg"/>
+<img align="center" src="https://i.ibb.co/wCGMBf8/header.png"/>
 
-### Hello Earthling! <img src="https://i.ibb.co/wCGMBf8/header.png" width="5%">
+### Hello Earthling!
 This is the place where I opensource and break things..
 
 - 🔭 &nbsp;I’m currently working remotley as a Software Engineer at https://littlestarmedia.com/
