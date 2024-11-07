@@ -21,6 +21,17 @@ I am a Full Stack Developer with 9+ years of experience in developing enterprise
 #### My Opensource Story
 During my free time, I create both open-source and private projects on GitHub, all of my open-source projects available on my personal profile and FantaKuchen (If i ever get any work done)
 
+##### Current Passion Projects
+<br />
+<div align="left">
+  <img src="https://tour-program.s3.eu-north-1.amazonaws.com/tour_program.jpg">
+  <h3 align="center">Will They Have THAT On The Tour?</h3>
+  <p align="center">
+    A Jurassic Park Themed "Chase" game, can you beat Nedry to the docks?!
+  </p>
+</div>
+
+
 You can read more about me and seft taugh journey to full stack at my website: [TheCuriousCodeMonkey](https://jameshusband.github.io/TheCuriousCodeMonkey/)
 
 I create most of my open-source projects to:
