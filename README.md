@@ -24,11 +24,7 @@ During my free time, I create both open-source and private projects on GitHub, a
 ##### Current Passion Projects
 <br />
 <div align="left">
-  <img src="https://tour-program.s3.eu-north-1.amazonaws.com/tour_program.jpg">
-  <h3 align="center">Will They Have THAT On The Tour?</h3>
-  <p align="center">
-    A Jurassic Park Themed "Chase" game, can you beat Nedry to the docks?!
-  </p>
+  <a href="'" target="blank"><img src="https://tour-program.s3.eu-north-1.amazonaws.com/tour_program.jpg"></a>
 </div>
 
 
