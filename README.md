@@ -1,13 +1,12 @@
 
-<img align="center" src="https://i.ibb.co/wCGMBf8/header.png"/>
+<img align="center" src="https://i.ibb.co/0J4BjWy/68747470733a2f2f692e6962622e636f2f7743474d4266382f6865616465722e706e67.png"/>
 
 ### Hello Earthling!
-This is the place where I opensource and break things..
+
 
 - 🔭 &nbsp;I’m currently working remotley as a Software Engineer at https://littlestarmedia.com/
-- 🌱 &nbsp;I’m currently working mainly within NX projects as either intergrated / standalone / package based mono repos
+- 🌱 &nbsp;I’m currently working mainly within NX projects as either intergrated / standalone / package based mono repos 
 - 💬 &nbsp;Ask me anything related to **Javascript/Typescript**, **React/Express**, and if you must... **WordPress**
-- ⚡I am currently investing my time deep diving EA Frameworks such as [TOGAF](https://www.orbussoftware.com/resources/research-library/detail/togaf-starter-pack)/[ZACHMAN](https://zachman-feac.com/zachman/about-the-zachman-framework) & exploring the benefit of [ISO(25002) certification](https://www.iso.org/standard/78175.html). 
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -20,9 +19,7 @@ This is the place where I opensource and break things..
 I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
 
 #### My Opensource Story
-During my free time, I create both open-source and private projects on GitHub, all of my open-source projects available on my personal profile.
-
-- [AgileSDK](#) - 
+During my free time, I create both open-source and private projects on GitHub, all of my open-source projects available on my personal profile and FantaKuchen (If i ever get any work done)
 
 You can read more about me and seft taugh journey to full stack at my website: [TheCuriousCodeMonkey](https://jameshusband.github.io/TheCuriousCodeMonkey/)
 
@@ -30,6 +27,7 @@ I create most of my open-source projects to:
 - **Solve:** *The challenges I encounter in life...*
 - **Create:** *Tooling to imrove my personal developer experience (DevEx)...*
 - **Retain:** *My learnings using real world application...*
+- **Retain:** *Create games that I never actually getting around to creating...*
 
  
 <details>
