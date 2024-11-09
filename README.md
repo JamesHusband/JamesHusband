@@ -19,6 +19,6 @@ Beyond coding, I am all about **lifelong learning** and **mindful living**. I en
 *Currently working on a couple of fun side projects:*
 
 - **[The Curious Code Monkey](https://github.com/JamesHusband/TheCuriousCodeMonkey)** - My blog-in-progress, where I share insights on coding and beyond!
-- **[Ant Keeper](https://github.com/JamesHusband/Ant-Keeper)** - A game project where you manage your own virtual ant colony.
+- **[Ant Keeper](https://github.com/JamesHusband/Ant-Keeper)** - Cordsepts and Ants = Game.
 
 Here to leverage the latest in web tech to solve real-world problems and create something truly **awesome**. Let us build something amazing together! 🌍🚀
