@@ -20,7 +20,9 @@ Beyond coding, I am all about **lifelong learning** and **mindful living**. I en
 
 *Currently working on a couple of fun side projects:*
 
+- - **[Diabeetus](https://github.com/JamesHusband/Diabeetus)** - An AI App to help my Dad's Diabetes regime.
 - **[The Curious Code Monkey](https://github.com/JamesHusband/TheCuriousCodeMonkey)** - My blog-in-progress, where I share insights on coding and beyond!
 - **[Ant Keeper](https://github.com/JamesHusband/Ant-Keeper)** - Cordyceps and Ants = Game.
+
 
 Here to leverage the latest in web tech to solve real-world problems and create something truly **awesome**. Let us build something amazing together! 🌍🚀
