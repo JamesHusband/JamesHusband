@@ -1,7 +1,5 @@
 ## 📝 **NOTE TO SELF!! STOP CONFIG AND DEVELOP!!** 🚀
 
-I'm currently experimenting with the **Pomodoro Technique** and **Getting Things Done (GTD)** method to manage multiple interests and stay productive!
-
 <h2> 𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚎𝚊𝚛𝚝𝚑𝚕𝚒𝚗𝚐𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -28,3 +26,5 @@ Beyond coding, I am all about **lifelong learning** and **mindful living**. I en
 
 
 Here to leverage the latest in web tech to solve real-world problems and create something truly **awesome**. Let us build something amazing together! 🌍🚀
+
+I'm currently experimenting with the **Pomodoro Technique** and **Getting Things Done (GTD)** method to manage multiple interests and stay productive!
