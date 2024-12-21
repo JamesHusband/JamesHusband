@@ -26,5 +26,4 @@ Here to leverage the latest in web tech to solve real-world problems and create 
 
 - **[The Curious Code Monkey](https://github.com/JamesHusband/TheCuriousCodeMonkey)** - My blog-in-progress, where I share insights on coding and beyond!
 
-I'm currently experimenting with the *Pomodoro Technique and Getting Things Done (GTD)* method to manage multiple interests and stay productive!
 
