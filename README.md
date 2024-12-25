@@ -40,7 +40,7 @@
 
 ## 🚀 Current passion projects:
 
-<img align='left' src="/assets/branch.webp" width='100px' style="margin-right: 10px">
+<img align='left' src="/assets/branch.webp" width='60px' style="margin-right: 10px">
 
 - **[Diabeetus](https://github.com/JamesHusband/Diabeetus)** - An AI App to help my Dad's Diabetes regime.
 - **[The Curious Code Monkey](https://github.com/JamesHusband/TheCuriousCodeMonkey)** - My blog-in-progress, where I share insights on coding and beyond!
