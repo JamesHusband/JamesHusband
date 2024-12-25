@@ -1,6 +1,6 @@
 ```html
 <!-- GNU Terry Pratchett -->
-<meta name="X-Clacks-Overhead" content="GNU Terry Pratchett">
+<meta name="X-Clacks-Overhead" content="[GNU Terry Pratchett](http://www.gnuterrypratchett.com/ "GNU Terry Pratchett")">
 ```
 
 <h2> 𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚎𝚊𝚛𝚝𝚑𝚕𝚒𝚗𝚐𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
