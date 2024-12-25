@@ -33,9 +33,18 @@
 
 <img align='left' src="/assets/divider.webp" >
 
-**Beyond coding**, I am all about "_lifelong learning and mindful living_." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>🌟 Beyond coding</h3>
+        <p><i>I am all about "<b>lifelong learning and mindful living</b>." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### Current passion projects:
+## 🚀 Current passion projects:
 
 <img align='left' src="/assets/branch.webp" width='100px' style="margin-right: 10px">
 
