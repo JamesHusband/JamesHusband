@@ -14,7 +14,7 @@
 
 [![FantaKuchen Badge](https://img.shields.io/badge/-FantaKuchen-orange?style=flat-square&logo=github&logoColor=white&link=https://github.com/fantakuchen)](https://github.com/fantakuchen)
 
-Beyond coding, I am all about *lifelong learning and mindful living*. I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.
+**Beyond coding**, I am all about "*lifelong learning and mindful living*." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.
 
 #### Current passion projects:
 
