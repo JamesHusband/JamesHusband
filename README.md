@@ -33,7 +33,7 @@
 
 <img align='left' src="/assets/divider.webp" >
 
-<div align="center">  
+<div align="left">  
         <h3>🌟 Beyond coding</h3>
         <p><i>I am all about "<b>lifelong learning and mindful living</b>." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
 </div>
