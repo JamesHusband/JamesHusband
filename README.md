@@ -36,11 +36,8 @@
 
 
 <p align="center">
-  <img src="https://via.placeholder.com/100" alt="Image 1" width="100" />
+  <img src="https://via.placeholder.com/100" alt="Image 1" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/100" alt="Image 2" width="100" />
+  <img src="https://via.placeholder.com/100" alt="Image 2" width="200" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/100" alt="Image 3" width="100" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/100" alt="Image 4" width="100" />
 </p>
