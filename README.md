@@ -7,23 +7,32 @@
 [![Linkedin Badge](https://img.shields.io/badge/-jchusband-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jchusband/)](https://www.linkedin.com/in/jchusband/)
 ![Profile Views](https://komarev.com/ghpvc/?username=JamesHusband&color=brightgreen)
 
-👋 Hey there! I'm a Full Stack Developer passionate about crafting clean, scalable web applications. Here to leverage the latest in web tech to solve real-world problems and create something truly _awesome_. Let us build something amazing together! 🌍🚀
+👋 Hey there! I'm a Full Stack Developer passionate about crafting clean, scalable web applications. Here to leverage the latest in web tech to solve real-world problems and create something truly _awesome_. Let us build something amazing together! 🚀
 
-### I Currently Work @
+### I Currently Work *@*
 
 [![LittleStarMedia Badge](https://img.shields.io/badge/-LittleStarMedia-red?style=flat-square&logo=github&logoColor=white&link=https://github.com/littlestarmedia)](https://github.com/littlestarmedia)
 
-### I Make Open-Source VideoGames @
+### I Make Open-Source VideoGames *@*
 
 [![FantaKuchen Badge](https://img.shields.io/badge/-FantaKuchen-orange?style=flat-square&logo=github&logoColor=white&link=https://github.com/fantakuchen)](https://github.com/fantakuchen)
+
+
+
+------------
+
+
 
 <img align='left' src="/assets/divider.webp" >
 
 
 <div align="left">  
-        <h3>🌟 Beyond coding</h3>
-        <p><i>I am all about "<b>lifelong learning and mindful living</b>." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
+        <h4>🧬 Beyond coding</h4>
+        <p><i>I am all about "lifelong learning and mindful living." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
 </div>
+
+
+> ["A man is not dead while his name is still spoken."](http://www.gnuterrypratchett.com/ ""A man is not dead while his name is still spoken."")
 
 ```html
 <meta name="X-Clacks-Overhead" content="GNU Terry Pratchett" />
