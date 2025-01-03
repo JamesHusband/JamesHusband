@@ -21,18 +21,14 @@
 
 ------------
 
-
-
-<img align='left' src="/assets/divider.webp" >
-
-
 <div align="left">  
         <h4>🧬 Beyond coding</h4>
         <p><i>I am all about "lifelong learning and mindful living." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
 </div>
 
 
-> ["A man is not dead while his name is still spoken."](http://www.gnuterrypratchett.com/ ""A man is not dead while his name is still spoken."")
+<img align='left' src="/assets/divider.webp" >
+
 
 ```html
 <meta name="X-Clacks-Overhead" content="GNU Terry Pratchett" />
