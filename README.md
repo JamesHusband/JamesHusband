@@ -36,8 +36,8 @@
 
 
 <p align="center">
-  <img src="https://via.placeholder.com/100" alt="Image 1" width="100" />
-  <img src="https://via.placeholder.com/100" alt="Image 2" width="100" />
-  <img src="https://via.placeholder.com/100" alt="Image 3" width="100" />
-  <img src="https://via.placeholder.com/100" alt="Image 4" width="100" />
+  <img src="https://via.placeholder.com/100" alt="Image 1" width="100" style="margin: 0 10px;" />
+  <img src="https://via.placeholder.com/100" alt="Image 2" width="100" style="margin: 0 10px;" />
+  <img src="https://via.placeholder.com/100" alt="Image 3" width="100" style="margin: 0 10px;" />
+  <img src="https://via.placeholder.com/100" alt="Image 4" width="100" style="margin: 0 10px;" />
 </p>
