@@ -9,11 +9,6 @@
 
 👋 Hey there! I'm a Full Stack Developer passionate about crafting clean, scalable web applications. Here to leverage the latest in web tech to solve real-world problems and create something truly _awesome_. Let us build something amazing together! 🌍🚀
 
-<div align="left">  
-        <h3>🌟 Beyond coding</h3>
-        <p><i>I am all about "<b>lifelong learning and mindful living</b>." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
-</div>
-
 ### I Currently Work @
 
 [![LittleStarMedia Badge](https://img.shields.io/badge/-LittleStarMedia-red?style=flat-square&logo=github&logoColor=white&link=https://github.com/littlestarmedia)](https://github.com/littlestarmedia)
@@ -25,6 +20,10 @@
 <img align='left' src="/assets/divider.webp" >
 
 
+<div align="left">  
+        <h3>🌟 Beyond coding</h3>
+        <p><i>I am all about "<b>lifelong learning and mindful living</b>." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
+</div>
 
 ```html
 <meta name="X-Clacks-Overhead" content="GNU Terry Pratchett" />
