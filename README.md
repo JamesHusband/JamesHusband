@@ -18,16 +18,6 @@
         <p><i>I am all about "<b>lifelong learning and mindful living</b>." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
 </div>
 
-### 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ### I Currently Work @
 
 [![LittleStarMedia Badge](https://img.shields.io/badge/-LittleStarMedia-red?style=flat-square&logo=github&logoColor=white&link=https://github.com/littlestarmedia)](https://github.com/littlestarmedia)
