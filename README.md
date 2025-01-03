@@ -1,7 +1,3 @@
-```html
-<meta name="X-Clacks-Overhead" content="GNU Terry Pratchett" />
-```
-
 <h2> 𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚎𝚊𝚛𝚝𝚑𝚕𝚒𝚗𝚐𝚜/>!</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;Game+Developer;AI+Enthusiast)](https://git.io/typing-svg)
@@ -27,3 +23,9 @@
 [![FantaKuchen Badge](https://img.shields.io/badge/-FantaKuchen-orange?style=flat-square&logo=github&logoColor=white&link=https://github.com/fantakuchen)](https://github.com/fantakuchen)
 
 <img align='left' src="/assets/divider.webp" >
+
+
+
+```html
+<meta name="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+```
