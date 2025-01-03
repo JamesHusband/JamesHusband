@@ -13,6 +13,11 @@
 
 👋 Hey there! I'm a Full Stack Developer passionate about crafting clean, scalable web applications. Here to leverage the latest in web tech to solve real-world problems and create something truly _awesome_. Let us build something amazing together! 🌍🚀
 
+<div align="left">  
+        <h3>🌟 Beyond coding</h3>
+        <p><i>I am all about "<b>lifelong learning and mindful living</b>." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
+</div>
+
 ### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,10 +38,7 @@
 
 <img align='left' src="/assets/divider.webp" >
 
-<div align="left">  
-        <h3>🌟 Beyond coding</h3>
-        <p><i>I am all about "<b>lifelong learning and mindful living</b>." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
-</div>
+
 
 ## 🚀 Current passion projects:
 
