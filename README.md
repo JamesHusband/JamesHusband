@@ -37,24 +37,3 @@
 [![FantaKuchen Badge](https://img.shields.io/badge/-FantaKuchen-orange?style=flat-square&logo=github&logoColor=white&link=https://github.com/fantakuchen)](https://github.com/fantakuchen)
 
 <img align='left' src="/assets/divider.webp" >
-
-
-
-## 🚀 Current passion projects:
-
-<img align='left' src="/assets/branch.webp" width='60px' style="margin-right: 10px">
-
-- **[Diabeetus](https://github.com/JamesHusband/Diabeetus)** - An AI App to help my Dad's Diabetes regime.
-- **[The Curious Code Monkey](https://github.com/JamesHusband/TheCuriousCodeMonkey)** - My blog-in-progress, where I share insights on coding and beyond!
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-  
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesHusband&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHusband&layout=compact&theme=radical)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamesHusband&theme=dark)](https://git.io/streak-stats)
-  
-  [![James's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JamesHusband&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>
