@@ -17,27 +17,9 @@
 
 [![FantaKuchen Badge](https://img.shields.io/badge/-FantaKuchen-orange?style=flat-square&logo=github&logoColor=white&link=https://github.com/fantakuchen)](https://github.com/fantakuchen)
 
-
-
 ------------
 
 <div align="left">  
         <h4>🧬 Beyond coding</h4>
         <p><i>I am all about "lifelong learning and mindful living." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
 </div>
-
-
-<img align='left' src="/assets/divider.webp" >
-
-
-```html
-<meta name="X-Clacks-Overhead" content="GNU Terry Pratchett" />
-```
-
-
-<p align="center">
-  <img src="https://via.placeholder.com/100" alt="Image 1" width="200" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/100" alt="Image 2" width="200" />
-  &nbsp;&nbsp;&nbsp;
-</p>
