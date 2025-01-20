@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;Game+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
-<img align='right' src='/assets/zen.webp' width='400"'>
-
 [![Linkedin Badge](https://img.shields.io/badge/-jchusband-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jchusband/)](https://www.linkedin.com/in/jchusband/)
 ![Profile Views](https://komarev.com/ghpvc/?username=JamesHusband&color=brightgreen)
 
