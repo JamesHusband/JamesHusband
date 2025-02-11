@@ -5,15 +5,6 @@
 
 👋 Hey there! I'm a Full Stack Developer passionate about crafting clean, scalable web applications. Here to leverage the latest in web tech to solve real-world problems and create something truly awesome. Let us build something amazing together! 🚀
 
-### I Currently Work *@*
-
-[![LittleStarMedia Badge](https://img.shields.io/badge/-LittleStarMedia-red?style=flat-square&logo=github&logoColor=white&link=https://github.com/littlestarmedia)](https://github.com/littlestarmedia)
-
-### I Make Open-Source VideoGames *@*
-
-[![FantaKuchen Badge](https://img.shields.io/badge/-FantaKuchen-orange?style=flat-square&logo=github&logoColor=white&link=https://github.com/fantakuchen)](https://github.com/fantakuchen)
-
-
 ------------
 
 <div align="left">  
