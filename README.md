@@ -8,6 +8,6 @@
 ------------
 
 <div align="left">  
-        <h4>🧬 Beyond coding</h4>
+        <h4>Beyond coding</h4>
         <p><i>I am all about "lifelong learning and mindful living." I enjoy diving into new ideas and tech, always striving to expand my skill set and understanding of the world.</i></p>
 </div>
