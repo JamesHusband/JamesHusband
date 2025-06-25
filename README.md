@@ -5,7 +5,7 @@
 
 I'm a Full Stack Developer passionate about crafting clean, scalable web applications. Here to leverage the latest in web tech to solve real-world problems and create something truly awesome. Let us build something amazing together!
 
-🌐 [Check out my portfolio:](https://portfolio-sygj.vercel.app/)
+🌐 [Check out my portfolio](https://portfolio-sygj.vercel.app/)
 
 ------------
 
